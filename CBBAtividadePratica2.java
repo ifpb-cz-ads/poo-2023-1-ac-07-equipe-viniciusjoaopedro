@@ -5,7 +5,6 @@
 conforme foi exemplifi cado. */
 
 public class CBBAtividadePratica2 {
-
 	public static void main(String[] args) {
 		
 		// Cria o array com capacidade para 100 inteiros
@@ -19,8 +18,6 @@ public class CBBAtividadePratica2 {
 	    // Imprime cada número do array
 	    for (int i = 0; i < array.length; i++) {
         System.out.println(array[i]);
-        }
-
+		}
 	}
-
 }
