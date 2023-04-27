@@ -8,15 +8,11 @@ public class CBBAtividadePratica1 {
 
     public static void main(String[] args) {
         // Cria o array com capacidade para 100 inteiros
-		    int[] array = new int[100]; 
+        int[] array = new int[100]; 
 
-		    // Inicializa cada elemento do array com o número correspondente
+        // Inicializa e imprime cada elemento do array com o número correspondente
         for (int i = 0; i < 100; i++) {
             array[i] = i;
-        }
-
-        // Imprime cada número do array
-        for (int i = 0; i < array.length; i++) {
             System.out.println(array[i]);
         }
     }
