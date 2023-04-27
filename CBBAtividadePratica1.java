@@ -11,7 +11,7 @@ public class CBBAtividadePratica1 {
 		    int[] array = new int[100]; 
 
 		    // Inicializa cada elemento do array com o número correspondente
-        for (int i = 0; i < array.length; i++) {
+        for (int i = 0; i < 100; i++) {
             array[i] = i;
         }
 
